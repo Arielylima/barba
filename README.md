@@ -1,2 +1,2 @@
 # barba
-educacional
+Pagina comercial para aprendizagem.
